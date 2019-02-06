@@ -1,2 +1,2 @@
 # java-specific-functions
-Repository to document punctual functionalities/Classes or any doubt that arise. 
+Repository to document specific functions / classes or any question that may arise.
